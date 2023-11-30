@@ -1,0 +1,9 @@
+body{
+    background-image: url('../img/piso-fondo.jpg');
+    background-size: 100% 100vh;
+    z-index: -3;
+    background-repeat: no-repeat;
+}
+table tr td{
+    width: 10rem;
+}
